@@ -120,7 +120,7 @@ def tabela():
         print("Descarte os alimentos vencidos")
     if urgentes > 0:
         print(
-            f"Coma cerca de {(urgentes / 3):.1f} alimentos urgentes por dia para consumir a tempo"
+            f"Coma cerca de {(urgentes / 3):.1f} dos alimentos urgentes por dia para consumir a tempo"
         )
     if vencidos == 0 and urgentes == 0:
         print("Pode consumir seus alimentos com calma")
