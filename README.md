@@ -7,7 +7,7 @@
 ## Video pitch
 
 
-https://github.com/user-attachments/assets/60f274a2-652c-4c07-b83f-de6644e868d0
+https://github.com/user-attachments/assets/9f3a6297-a50a-4645-82d0-fd7a6cf59fa4
 
 
 ## Problema escolhido
